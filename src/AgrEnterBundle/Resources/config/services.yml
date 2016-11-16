@@ -1,0 +1,4 @@
+services:
+#    agr_enter.example:
+#        class: AgrEnterBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
