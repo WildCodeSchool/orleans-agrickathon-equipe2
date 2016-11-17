@@ -1,7 +1,7 @@
 <?php
 /*//Get lattitude and longitude for each plant
 function getCoordinates($address){
-$apiKey ='AIzaSyCN0IkM9PljUR6ftqU8-0Hn8WWbQ_N9wCE';
+$apiKey ='AIzaSyCN0IkM9PljUR6ftqU8';
 $query = 'https://maps.googleapis.com/maps/api/geocode/json?address='.$address.'&key='.$apiKey;
 $return = file_get_contents($query);
 $result = json_decode($return, true);
