@@ -62,7 +62,7 @@ class SiteController extends Controller
 
         $sites = $em->getRepository('AgrEnterBundle:Site')->findAll();
 
-        return $this->render('site/index.html.twig', array(
+        return $this->render('site/index.php.twig', array(
             'sites' => $sites,
         ));
     }

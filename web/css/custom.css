@@ -8,6 +8,62 @@
     width: 6vw;
     height: 6vh;
 }
+footer{
+    background-color: #00CC99;
+}
+#wrapMap{
+    margin-top: 150px;
+    height: 900px;
+
+}
+#myMap{
+    width:100%;
+    height: 100%;
+
+}
+#bp{
+    margin-top: 150px;
+}
+.dropdown:hover{
+    background-color: white !important;
+}
+.dropdown button:hover{
+    border: none;
+}
+.dropdownMenu1>.title{
+    padding-top: 30px;
+}
+.dropdown{
+    border-radius: 3px;
+    border: none !important;
+    color: black !important;
+    background-color: white !important;
+    height: 45px;
+}
+.dropdown button{
+    border: none;
+    color: inherit !important;
+    background-color: white !important;
+}
+#contact{
+    padding-top: 150px !important;
+    padding-bottom: 150px !important;
+}
+.content-section{
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+.download-section {
+    width: 100%;
+    padding: 50px 0;
+    color: white;
+    background: no-repeat center center scroll !important;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 /*=========Bloc resultat de recherche=========*/
 .glyphicon { margin-right:5px; }

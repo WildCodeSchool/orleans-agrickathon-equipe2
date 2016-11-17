@@ -9,7 +9,7 @@
 </head>
 <body>
     <p id="msg"></p>
-    <iframe id="map" src="http://umap.openstreetmap.fr/en/map/dis-moi-ou_112092#4/" frameborder="0" width="800px" height="800px"></iframe>
+    <iframe id="map" src="http://umap.openstreetmap.fr/en/map/dis-moi-ou_112092#4/" frameborder="0""></iframe>
     <?php
         //Show map and localisate you to your coordinates
         if (!empty($_POST['lat'])) {

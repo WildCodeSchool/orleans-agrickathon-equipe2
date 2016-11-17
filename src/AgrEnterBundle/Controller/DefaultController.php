@@ -12,6 +12,6 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return $this->render('AgrEnterBundle:Default:index.html.twig');
+        return $this->render('AgrEnterBundle:Default:index.php.twig');
     }
 }
