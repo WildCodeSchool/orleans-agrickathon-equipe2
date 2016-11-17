@@ -1,0 +1,556 @@
+
+                {
+                    "type": "FeatureCollection",
+                    "features": [
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Saint-Diery",
+                            "street": "La Chaux",
+                            "postcode": "63320",
+                            "name": "GAEC du Bois Joli",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.996799,
+                                45.553897
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "GREMEVILLERS",
+                            "street": "2 rue Alexis Maillet Choqueuse",
+                            "postcode": "60380",
+                            "name": "La ferme de Merignan",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.9139856,
+                                49.5619808
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "GREBAULT MESNIL",
+                            "street": "15 rue Machu",
+                            "postcode": "80140",
+                            "name": "Bergerie de la Petite Ferme",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.7193176,
+                                50.1
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "EQUANCOURT",
+                            "street": "21 grande rue",
+                            "postcode": "80360",
+                            "name": "Ferme la petite garenne",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                3.1,
+                                49.9920203
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "JARS",
+                            "street": "La Brissauderie",
+                            "postcode": "18260",
+                            "name": "Elevage de la Brissauderie",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/abattoir.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.7063663,
+                                47.3771735
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "MARCILLY SUR MAULNE",
+                            "street": "Le Viornay",
+                            "postcode": "37330",
+                            "name": "La Cabrett' du Viornay",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                0.2067432,
+                                47.5339319
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "NERON",
+                            "street": "2 rue d'Ormoy",
+                            "postcode": "28210",
+                            "name": "La Ferme au Colombier",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.513327,
+                                48.602368
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "ROMILLY SUR AIGRE",
+                            "street": "1 rue de l'Ecole",
+                            "postcode": "28220",
+                            "name": "Ferme de la grand'Cour",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.2812485,
+                                47.9804644
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "BOUGLAINVAL",
+                            "street": "6 route de Bercheres",
+                            "postcode": "28130",
+                            "name": "La Ferme autour du grain",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.5524911,
+                                48.5410386
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "REUGNY",
+                            "street": "La Ruerie",
+                            "postcode": "37380",
+                            "name": "Ferme de la Ruerie",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/champ.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                0.883656,
+                                47.481288
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Montargis",
+                            "street": "190bis Rue Paul Doumer",
+                            "postcode": "45200",
+                            "name": "Producteurs Gatinais La Meuniere CA.PRO.GA",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/entreprise.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.7419667,
+                                48.1
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "OLIVET",
+                            "street": "36 rue de la Manufacture",
+                            "postcode": "45166",
+                            "name": "Axereal",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/entreprise.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.9107923,
+                                47.8541883
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Puiseaux",
+                            "street": "Rue du Moulin de Charreau",
+                            "postcode": "45390",
+                            "name": "Cooperative Agricole Puiseaux",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/entreprise.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.4314127,
+                                48.2227538
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Checy",
+                            "street": "75 Rue de la Sauge",
+                            "postcode": "45430",
+                            "name": "Cap centre",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/entreprise.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.1,
+                                47.8975354
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Bois-Herpin",
+                            "street": "39 Grande Rue",
+                            "postcode": "91150",
+                            "name": "Coopérative Agricole Ile de France Silo",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/entreprise.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.2328366,
+                                48.3863485
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Villemandeur",
+                            "street": "rue du Marechal de Lattre de Tassigny",
+                            "postcode": "45700",
+                            "name": "Abattoir Segent",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/abattoir.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.710471,
+                                47.9725365
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "MONTARGIS",
+                            "street": "114 bis, rue de la Liberation",
+                            "postcode": "45207",
+                            "name": "Roucheteau Pere et Fils",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/abattoir.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.7241894,
+                                47.9947007
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Orleans",
+                            "street": "16 rue de la Republique",
+                            "postcode": "45000",
+                            "name": "Societe Vitreenne D'Abattage",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/abattoir.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.9049402,
+                                47.9044213
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "ESCRENNES",
+                            "street": "17�rue Gare",
+                            "postcode": "45300",
+                            "name": "Fromagerie Durand",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/fromage.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.1940709,
+                                48.1288117
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Meung sur Loire",
+                            "street": "1 chemin de l'orange",
+                            "postcode": "45130",
+                            "name": "Charcuterie",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/artisanal.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.7111504,
+                                47.8403091
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "PONTHOILE",
+                            "street": "32 rue du Marais de Neuville",
+                            "postcode": "80860",
+                            "name": "La Laiterie de la Baie",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/artisanal.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.7054305,
+                                50.2364882
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "Orleans",
+                            "street": "85 Rue du Faubourg Bannier",
+                            "postcode": "45000",
+                            "name": "Fromagerie Beaulieu et Fils",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/fromage.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                1.8996868,
+                                47.9121226
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "AMIENS",
+                            "street": "51 rue de la Republique",
+                            "postcode": "80020",
+                            "name": "Minoterie Belfosse",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/artisanal.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.296118,
+                                49.8904378
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "AMIENS",
+                            "street": "22 bis, rue du General Leclerc",
+                            "postcode": "80000",
+                            "name": "Boulangerie de la grande rue",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/boulanger.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.2946095,
+                                49.8955682
+                            ]
+                        }
+                    },
+                    {  
+                        "type": "Feature",
+                        "properties": {
+                            "country": "France",
+                            "city": "VILLEMANDEUR",
+                            "street": "69 rue Jean Mermoz",
+                            "postcode": "45700",
+                            "name": "Boulangerie au four et au moulin",
+                            "description": "",
+                            "_storage_options": {
+                                "color": "Grey",
+                                "iconUrl": "http://mickael.lehoux.net/boulanger.png"
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                2.7185781,
+                                47.9804368
+                            ]
+                        }
+                    }
+                    ]
+                }

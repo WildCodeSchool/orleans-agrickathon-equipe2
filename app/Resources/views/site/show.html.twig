@@ -1,0 +1,52 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Site</h1>
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ site.id }}</td>
+            </tr>
+            <tr>
+                <th>Voie</th>
+                <td>{{ site.voie }}</td>
+            </tr>
+            <tr>
+                <th>Cp</th>
+                <td>{{ site.cp }}</td>
+            </tr>
+            <tr>
+                <th>Ville</th>
+                <td>{{ site.ville }}</td>
+            </tr>
+            <tr>
+                <th>Responsable</th>
+                <td>{{ site.responsable }}</td>
+            </tr>
+            <tr>
+                <th>Degustation</th>
+                <td>{% if site.degustation %}Yes{% else %}No{% endif %}</td>
+            </tr>
+            <tr>
+                <th>Achat</th>
+                <td>{% if site.achat %}Yes{% else %}No{% endif %}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('site_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('site_edit', { 'id': site.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}
